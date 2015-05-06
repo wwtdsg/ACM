@@ -1,4 +1,6 @@
 /*
+From: POJ
+
 Description
 
 Problems involving the computation of exact values of very large magnitude and precision are common. 
