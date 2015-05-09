@@ -7,6 +7,10 @@
 
  有空的时候是得要多补补数据结构与算法基础了。
  * */
+ /*
+ author: wt
+ date: 2015/5/9
+ */
 #include<iostream>
 #include<list>
 #include<map>
