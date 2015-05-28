@@ -3,7 +3,6 @@
 #include <iomanip>
 
 using namespace std;
-char s[8];
 
 int main()
 {
